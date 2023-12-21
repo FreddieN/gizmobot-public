@@ -1,0 +1,405 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		142A38EA2B1A9F9D004BBB41 /* SequenceListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142A38E92B1A9F9D004BBB41 /* SequenceListingView.swift */; };
+		142A38EC2B1AA393004BBB41 /* SequenceDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142A38EB2B1AA393004BBB41 /* SequenceDetails.swift */; };
+		145DA7612B19F0B800173665 /* StepperMotorsControlStatusMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145DA7602B19F0B800173665 /* StepperMotorsControlStatusMonitor.swift */; };
+		145DA7632B19F3D700173665 /* StepperMotorsControlToFSensor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145DA7622B19F3D700173665 /* StepperMotorsControlToFSensor.swift */; };
+		14735C6D2B1B308600133F19 /* Scripts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14735C6C2B1B308600133F19 /* Scripts.swift */; };
+		149423E62B1A07D90012672D /* Robot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 149423E52B1A07D90012672D /* Robot.usdz */; };
+		14CFCAE42B194DEF0000A7BF /* BluetoothService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CFCAE32B194DEF0000A7BF /* BluetoothService.swift */; };
+		14CFCAE62B195EC30000A7BF /* StatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CFCAE52B195EC30000A7BF /* StatusView.swift */; };
+		14CFCAE82B1963E50000A7BF /* StatusMonTop3DGraphic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CFCAE72B1963E50000A7BF /* StatusMonTop3DGraphic.swift */; };
+		14CFCAEA2B1964D80000A7BF /* ViewControllerStatusMonTop3DGraphic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CFCAE92B1964D80000A7BF /* ViewControllerStatusMonTop3DGraphic.swift */; };
+		14DFEC5E2B1A5F9F0045B378 /* ConsoleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DFEC5D2B1A5F9F0045B378 /* ConsoleView.swift */; };
+		14FCBD532B1905650045F31C /* GizmoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FCBD522B1905650045F31C /* GizmoApp.swift */; };
+		14FCBD552B1905650045F31C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FCBD542B1905650045F31C /* ContentView.swift */; };
+		14FCBD572B1905660045F31C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14FCBD562B1905660045F31C /* Assets.xcassets */; };
+		14FCBD5A2B1905660045F31C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14FCBD592B1905660045F31C /* Preview Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		142A38E92B1A9F9D004BBB41 /* SequenceListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequenceListingView.swift; sourceTree = "<group>"; };
+		142A38EB2B1AA393004BBB41 /* SequenceDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequenceDetails.swift; sourceTree = "<group>"; };
+		145DA7602B19F0B800173665 /* StepperMotorsControlStatusMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperMotorsControlStatusMonitor.swift; sourceTree = "<group>"; };
+		145DA7622B19F3D700173665 /* StepperMotorsControlToFSensor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StepperMotorsControlToFSensor.swift; sourceTree = "<group>"; };
+		14735C6C2B1B308600133F19 /* Scripts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scripts.swift; sourceTree = "<group>"; };
+		149423E52B1A07D90012672D /* Robot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Robot.usdz; sourceTree = "<group>"; };
+		14CFCAE32B194DEF0000A7BF /* BluetoothService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothService.swift; sourceTree = "<group>"; };
+		14CFCAE52B195EC30000A7BF /* StatusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusView.swift; sourceTree = "<group>"; };
+		14CFCAE72B1963E50000A7BF /* StatusMonTop3DGraphic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusMonTop3DGraphic.swift; sourceTree = "<group>"; };
+		14CFCAE92B1964D80000A7BF /* ViewControllerStatusMonTop3DGraphic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerStatusMonTop3DGraphic.swift; sourceTree = "<group>"; };
+		14DFEC5D2B1A5F9F0045B378 /* ConsoleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsoleView.swift; sourceTree = "<group>"; };
+		14FCBD4F2B1905650045F31C /* Gizmo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gizmo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		14FCBD522B1905650045F31C /* GizmoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GizmoApp.swift; sourceTree = "<group>"; };
+		14FCBD542B1905650045F31C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		14FCBD562B1905660045F31C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		14FCBD592B1905660045F31C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		14FCBD602B1907150045F31C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		14FCBD4C2B1905650045F31C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		14FCBD462B1905650045F31C = {
+			isa = PBXGroup;
+			children = (
+				14FCBD512B1905650045F31C /* Gizmo */,
+				14FCBD502B1905650045F31C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		14FCBD502B1905650045F31C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				14FCBD4F2B1905650045F31C /* Gizmo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		14FCBD512B1905650045F31C /* Gizmo */ = {
+			isa = PBXGroup;
+			children = (
+				14735C6C2B1B308600133F19 /* Scripts.swift */,
+				145DA7602B19F0B800173665 /* StepperMotorsControlStatusMonitor.swift */,
+				14FCBD602B1907150045F31C /* Info.plist */,
+				14FCBD522B1905650045F31C /* GizmoApp.swift */,
+				14CFCAE32B194DEF0000A7BF /* BluetoothService.swift */,
+				142A38E92B1A9F9D004BBB41 /* SequenceListingView.swift */,
+				142A38EB2B1AA393004BBB41 /* SequenceDetails.swift */,
+				14DFEC5D2B1A5F9F0045B378 /* ConsoleView.swift */,
+				145DA7622B19F3D700173665 /* StepperMotorsControlToFSensor.swift */,
+				14FCBD542B1905650045F31C /* ContentView.swift */,
+				14FCBD562B1905660045F31C /* Assets.xcassets */,
+				14FCBD582B1905660045F31C /* Preview Content */,
+				14CFCAE52B195EC30000A7BF /* StatusView.swift */,
+				14CFCAE72B1963E50000A7BF /* StatusMonTop3DGraphic.swift */,
+				14CFCAE92B1964D80000A7BF /* ViewControllerStatusMonTop3DGraphic.swift */,
+				149423E52B1A07D90012672D /* Robot.usdz */,
+			);
+			path = Gizmo;
+			sourceTree = "<group>";
+		};
+		14FCBD582B1905660045F31C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				14FCBD592B1905660045F31C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		14FCBD4E2B1905650045F31C /* Gizmo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14FCBD5D2B1905660045F31C /* Build configuration list for PBXNativeTarget "Gizmo" */;
+			buildPhases = (
+				14FCBD4B2B1905650045F31C /* Sources */,
+				14FCBD4C2B1905650045F31C /* Frameworks */,
+				14FCBD4D2B1905650045F31C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Gizmo;
+			productName = Gizmo;
+			productReference = 14FCBD4F2B1905650045F31C /* Gizmo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		14FCBD472B1905650045F31C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					14FCBD4E2B1905650045F31C = {
+						CreatedOnToolsVersion = 15.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 14FCBD4A2B1905650045F31C /* Build configuration list for PBXProject "Gizmo" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 14FCBD462B1905650045F31C;
+			productRefGroup = 14FCBD502B1905650045F31C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				14FCBD4E2B1905650045F31C /* Gizmo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		14FCBD4D2B1905650045F31C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14FCBD5A2B1905660045F31C /* Preview Assets.xcassets in Resources */,
+				14FCBD572B1905660045F31C /* Assets.xcassets in Resources */,
+				149423E62B1A07D90012672D /* Robot.usdz in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		14FCBD4B2B1905650045F31C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14735C6D2B1B308600133F19 /* Scripts.swift in Sources */,
+				14CFCAE42B194DEF0000A7BF /* BluetoothService.swift in Sources */,
+				145DA7632B19F3D700173665 /* StepperMotorsControlToFSensor.swift in Sources */,
+				14CFCAE82B1963E50000A7BF /* StatusMonTop3DGraphic.swift in Sources */,
+				14FCBD552B1905650045F31C /* ContentView.swift in Sources */,
+				142A38EA2B1A9F9D004BBB41 /* SequenceListingView.swift in Sources */,
+				142A38EC2B1AA393004BBB41 /* SequenceDetails.swift in Sources */,
+				14DFEC5E2B1A5F9F0045B378 /* ConsoleView.swift in Sources */,
+				14CFCAEA2B1964D80000A7BF /* ViewControllerStatusMonTop3DGraphic.swift in Sources */,
+				14CFCAE62B195EC30000A7BF /* StatusView.swift in Sources */,
+				145DA7612B19F0B800173665 /* StepperMotorsControlStatusMonitor.swift in Sources */,
+				14FCBD532B1905650045F31C /* GizmoApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		14FCBD5B2B1905660045F31C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		14FCBD5C2B1905660045F31C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		14FCBD5E2B1905660045F31C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Gizmo/Preview Content\"";
+				DEVELOPMENT_TEAM = LM36LBTR4M;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Gizmo/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = Gizmo;
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = Gizmo;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.freddie.Gizmo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		14FCBD5F2B1905660045F31C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Gizmo/Preview Content\"";
+				DEVELOPMENT_TEAM = LM36LBTR4M;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Gizmo/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = Gizmo;
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = Gizmo;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.freddie.Gizmo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		14FCBD4A2B1905650045F31C /* Build configuration list for PBXProject "Gizmo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14FCBD5B2B1905660045F31C /* Debug */,
+				14FCBD5C2B1905660045F31C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14FCBD5D2B1905660045F31C /* Build configuration list for PBXNativeTarget "Gizmo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14FCBD5E2B1905660045F31C /* Debug */,
+				14FCBD5F2B1905660045F31C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 14FCBD472B1905650045F31C /* Project object */;
+}

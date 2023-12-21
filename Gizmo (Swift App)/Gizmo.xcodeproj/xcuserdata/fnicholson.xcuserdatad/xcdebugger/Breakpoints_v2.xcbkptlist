@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1AC890A0-0BCA-4B89-9FE8-0CF82FC4322E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74635099-D064-45F4-97B3-9088FE7A0C63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/StepperMotorsControlStatusMonitor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "updateMotorStateVars()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74635099-D064-45F4-97B3-9088FE7A0C63 - 479e7714d2c69d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.StepperMotorsControlStatusMonitor.updateMotorStateVars() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/StepperMotorsControlStatusMonitor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "74635099-D064-45F4-97B3-9088FE7A0C63 - 479e7714d2c69d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.StepperMotorsControlStatusMonitor.updateMotorStateVars() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/StepperMotorsControlStatusMonitor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "74635099-D064-45F4-97B3-9088FE7A0C63 - 479e7714d2c69d18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.StepperMotorsControlStatusMonitor.updateMotorStateVars() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/StepperMotorsControlStatusMonitor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5245E0B2-3CBF-4FA5-AC5C-AC7B41238CD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/StepperMotorsControlStatusMonitor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "updateMotorStateVars()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5245E0B2-3CBF-4FA5-AC5C-AC7B41238CD3 - 479e7714d2c69cda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.StepperMotorsControlStatusMonitor.updateMotorStateVars() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/StepperMotorsControlStatusMonitor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "5245E0B2-3CBF-4FA5-AC5C-AC7B41238CD3 - 479e7714d2c69cda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.StepperMotorsControlStatusMonitor.updateMotorStateVars() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/StepperMotorsControlStatusMonitor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "5245E0B2-3CBF-4FA5-AC5C-AC7B41238CD3 - 479e7714d2c69cda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.StepperMotorsControlStatusMonitor.updateMotorStateVars() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/StepperMotorsControlStatusMonitor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82353F60-FE71-49AC-AC0D-FB78027BF8B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/StepperMotorsControlToFSensor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "updateToFStateVars()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72C76C0A-29A0-413E-9258-4CE35EDF3492"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/StepperMotorsControlToFSensor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "updateToFStateVars()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "963DCD61-45F2-4671-B7C5-258DD4BB56FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/Console.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "963DCD61-45F2-4671-B7C5-258DD4BB56FB - 2b2a8b02e86e59d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;Gizmo.BluetoothService.ConsoleLogEntry&gt;, Gizmo.BluetoothService.ConsoleLogEntry, SwiftUI.Text&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.TextField&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.TextField&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in Gizmo.ConsoleView.body.getter : some"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/Console.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "963DCD61-45F2-4671-B7C5-258DD4BB56FB - e88ed0248271a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Gizmo.BluetoothService.ConsoleLogEntry) -&gt; SwiftUI.Text in closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;Gizmo.BluetoothService.ConsoleLogEntry&gt;, Gizmo.BluetoothService.ConsoleLogEntry, SwiftUI.Text&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.TextField&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.TextField&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in Gizmo.ConsoleView.body.getter : some"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/Console.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B3D93D0-AA49-43FA-90A5-0CA076BBAFF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/Console.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63858C88-7912-4D92-8B93-F85DB2DB1F78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/BluetoothService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "getRecordingStatus()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63858C88-7912-4D92-8B93-F85DB2DB1F78 - 9711c89a77d7886f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.BluetoothService.toggleRecordingStatus() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/BluetoothService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "63858C88-7912-4D92-8B93-F85DB2DB1F78 - 9079628a682e4524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.BluetoothService.getRecordingStatus() -&gt; Swift.Bool"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/BluetoothService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5256AF45-010F-41BF-B7B8-59AB6A5DBD36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/BluetoothService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "getConsoleLog()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09761D14-68C8-443E-A949-83A7039ADD9F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/SequenceListingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F975E023-03EA-42FB-8395-52A0A3E48F2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/SequenceListingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F975E023-03EA-42FB-8395-52A0A3E48F2E - 8cc51239ceef11b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt; in Gizmo.SequenceListingView.body.getter : some"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/SequenceListingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "F975E023-03EA-42FB-8395-52A0A3E48F2E - 2811fc4b99b8c52b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Gizmo.BluetoothService.Sequence) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, Swift.Never&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationDestination&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.Hashable, &#x3c4;_1_1: SwiftUI.View&gt;(for: &#x3c4;_1_0.Type, destination: (&#x3c4;_1_0) -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt; in Gizmo.SequenceListingView.body.getter : some"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/SequenceListingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "192DFC06-1326-443C-83BA-B1202D7927A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/SequenceDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "playSequence(step:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "614D1722-D136-4039-9D05-EB87A448483A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/SequenceDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "playSequence(step:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EEB4207-C067-4C13-8AE6-88F282B4BF83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/SequenceDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "playSequenceReverse(step:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EEB4207-C067-4C13-8AE6-88F282B4BF83 - 2fb32eff939003e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in Gizmo.SequenceDetailView.playSequenceReverse(step: Swift.Int) -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/SequenceDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "2572">
+               </Location>
+               <Location
+                  uuid = "0EEB4207-C067-4C13-8AE6-88F282B4BF83 - eba1bceb02f5f4cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Gizmo.BluetoothService.ConsoleLogEntry) -&gt; Swift.Bool in closure #2 @Swift.MainActor () -&gt; () in Gizmo.SequenceDetailView.playSequenceReverse(step: Swift.Int) -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/SequenceDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "0EEB4207-C067-4C13-8AE6-88F282B4BF83 - 2fb32eff939003e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in Gizmo.SequenceDetailView.playSequenceReverse(step: Swift.Int) -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/SequenceDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "2768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8760F704-3ABC-4E58-B00E-728461378366"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/ViewControllerStatusMonTop3DGraphic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3703874D-353F-45E7-ADD8-823F31F47B0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/ViewControllerStatusMonTop3DGraphic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "setup()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3703874D-353F-45E7-ADD8-823F31F47B0D - a90949165b6eed11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.ViewControllerStatusMonTop3DGraphic.setup() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/ViewControllerStatusMonTop3DGraphic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3896">
+               </Location>
+               <Location
+                  uuid = "3703874D-353F-45E7-ADD8-823F31F47B0D - d7187f518de3ed6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.SCNNode) -&gt; Swift.Bool in Gizmo.ViewControllerStatusMonTop3DGraphic.setup() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/ViewControllerStatusMonTop3DGraphic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3703874D-353F-45E7-ADD8-823F31F47B0D - a90949165b6eed30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gizmo.ViewControllerStatusMonTop3DGraphic.setup() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/ViewControllerStatusMonTop3DGraphic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "4080">
+               </Location>
+               <Location
+                  uuid = "3703874D-353F-45E7-ADD8-823F31F47B0D - d7187f518de3ef7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.SCNNode) -&gt; Swift.Bool in Gizmo.ViewControllerStatusMonTop3DGraphic.setup() -&gt; ()"
+                  moduleName = "Gizmo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fnicholson/Downloads/WarehouseBot/Gizmo/Gizmo/ViewControllerStatusMonTop3DGraphic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2590E793-B22C-4679-8AB7-BDDB65FD5D3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gizmo/ViewControllerStatusMonTop3DGraphic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in ViewControllerStatusMonTop3DGraphic.setup():ViewControllerStatusMonTop3DGraphic.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewControllerStatusMonTop3DGraphic.setup():ViewControllerStatusMonTop3DGraphic.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstNode.childNodes">
+            </PersistentString>
+            <PersistentString
+               value = "axle.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
